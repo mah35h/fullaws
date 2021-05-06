@@ -3,6 +3,7 @@ language: generic
 services:
   - docker
 
+
 # after_succes:
 #   - docker build -t mah35h/wlist-app .
 
